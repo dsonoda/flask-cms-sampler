@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.idea
+
+# vagrant
+Vagrantfile
+.vagrant
+
+#flask
+!__init__.py
+!.gitignore
